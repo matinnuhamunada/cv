@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "IGF PRIMERRS"
 title_separator          : "-"
-name                     : "matin"
+name                     : "matin nuhamunada"
 description              : "my website for igf training"
 url                      : https://matinnuhamunada.github.io/cv/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Universitas Gadjah Mada"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "matin_nuhamunada@ugm.ac.id" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
